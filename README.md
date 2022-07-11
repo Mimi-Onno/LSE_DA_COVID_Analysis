@@ -20,6 +20,7 @@ Video presentations:
 With 5 minutes limitation with LOOM video, I had to record the persentations in 2 parts.
 With limitation of 25MB in GitHub, even after compressed or zipped, files are still too big to be uploaded.
 
-To view videos:
+To view assignment presentation videos:
 Go to the LSE_DA201_assignment_presentation_Mimi_Onno.pdf
-Click on the share links to view the videos.
+Download a copy of the pdf file.
+Click on the share links to on the file to view the videos.
