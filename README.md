@@ -15,3 +15,7 @@ Data Analysis Workflow
 4) Visualise and identify initial trends
 5) Analyse the Twitter data
 6) Perform time-series analysis
+
+Video presentations:
+With 5 minutes limitation with LOOM video, I had to record the persentations in 2 parts.
+With limitation of 25MB in GitHub, even after compressed or zipped, files are still too big to be uploaded.
