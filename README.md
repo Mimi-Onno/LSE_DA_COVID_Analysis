@@ -14,4 +14,4 @@ Data Analysis Workflow
 3) Merge and analyse data
 4) Visualise and identify initial trends
 5) Analyse the Twitter data
-^) Perform time-series analysis
+6) Perform time-series analysis
