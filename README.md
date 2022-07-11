@@ -19,3 +19,4 @@ Data Analysis Workflow
 Video presentations:
 With 5 minutes limitation with LOOM video, I had to record the persentations in 2 parts.
 With limitation of 25MB in GitHub, even after compressed or zipped, files are still too big to be uploaded.
+I am not able to upload the video presentations because of the size problems.
