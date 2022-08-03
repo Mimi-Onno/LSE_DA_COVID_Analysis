@@ -9,7 +9,7 @@ This GitHub repository is setup to host the code, data files, Jupyter Notebooks 
 Python version 3.10 is used for the analysis with the PEP 8 style and guidelines.
 
 Data Analysis Workflow
-1) Setuo GitHub
+1) Setup GitHub
 2) Import and Explore Data
 3) Merge and analyse data
 4) Visualise and identify initial trends
